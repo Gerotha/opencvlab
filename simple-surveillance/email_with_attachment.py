@@ -17,8 +17,8 @@ from email.mime.multipart import MIMEMultipart
 COMMASPACE = ', '
 
 def main():
-    sender = 'prp.paulo97'
-    gmail_password = '01091997'
+    sender = 'YOUREMAIL'
+    gmail_password = 'YOURPASSWORDHERE'
     recipients = ['gbi.dantas59@gmail.com']
     text = 'mensagem de email só pega o code lek'
     
